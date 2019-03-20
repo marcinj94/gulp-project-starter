@@ -6,7 +6,7 @@
 
 npm install 
 
-### Run default gulp task (open browser window with live reload)
+### Run gulp task (open browser window with live reload)
 
 gulp watch
 
