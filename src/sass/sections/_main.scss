@@ -1,8 +1,17 @@
+html {
+    font-size: 62.5%;
+}
+
 body {
+    font-family: sans-serif;
+
+    //
     background-color: $bg-color;
 }
 
 h1 {
     color: $font-color;
     text-align: center;
+    padding-top: 30px;
+    font-size: 30px;
 }
